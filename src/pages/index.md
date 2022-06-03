@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: "Great coffee with a conscience asdfasdf "
+title: ASDF
 image: /img/home-jumbotron.jpg
-heading: Great code with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Great code with a conscience asdf
+subheading: uihdsfguhgfhsoighdfoihdfg
 mainpitch:
   title: Why Kaldi
   description: >
